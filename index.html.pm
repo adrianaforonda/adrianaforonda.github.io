@@ -18,15 +18,15 @@ La Paz, Plurinational State of Bolivia
 ◊h3{Masters, Diplomacy and International Relations}
 Thesis defense scheduled for May-2018
 Diplomatic Academy of Bolivia
-Ministry of Foreign Affairs, Plurinational State of Bolivia ◊marginnote{◊link["http://www.academiadiplomatica.gob.bo/"]{academiadiplomatica.gob.bo}}
+Ministry of Foreign Affairs, Plurinational State of Bolivia ◊link["http://www.academiadiplomatica.gob.bo/"]{+}
 
 ◊h3{Masters, Critical Studies of Development}
 2013- 2014
-Ciencias del Desarrollo - Universidad Mayor de San Andrés (CIDES - UMSA) ◊marginnote{◊link["http://www.cides.edu.bo"]{cides.edu.bo}}
+Ciencias del Desarrollo - Universidad Mayor de San Andrés (CIDES - UMSA) ◊link["http://www.cides.edu.bo"]{+}
 
 ◊h3{Bachelor, Economics}
 2005-2009
-Universidad Mayor de San Andrés (UMSA) ◊marginnote{◊link["http://www.umsa.bo"]{umsa.bo}}
+Universidad Mayor de San Andrés (UMSA) ◊link["http://www.umsa.bo"]{+}
 
 }
 
@@ -35,11 +35,11 @@ Universidad Mayor de San Andrés (UMSA) ◊marginnote{◊link["http://www.umsa.b
 ◊h2{Courses}
 
 ◊h3{World Trade Organization (WTO)}
-E-Learning Hub◊marginnote{◊link["http://ecampus.wto.org"]{ecampus.wto.org}}
+E-Learning Hub ◊link["http://ecampus.wto.org"]{+}
 2017 - Present
 
 ◊h3{Asociación Latinoamericana de Integración (ALADI)}
-Centro Virtual de Formación◊marginnote{◊link["http://campus.aladi-cvf.org"]{campus.aladi-cvf.org}}
+Centro Virtual de Formación ◊link["http://campus.aladi-cvf.org"]{+}
 2017 - Present
 
 }
@@ -48,26 +48,22 @@ Centro Virtual de Formación◊marginnote{◊link["http://campus.aladi-cvf.org"]
 
 ◊h2{Work Experience}
 
-◊h3{Research Officer, InternetBolivia.org}
-◊marginnote{◊link["https://internetbolivia.org"]{internetbolivia.org}}
+◊h3{Research Officer, InternetBolivia.org ◊link["https://internetbolivia.org"]{+}}
 La Paz, 1/2018 – Present
 * Responsible for research projects studying the relationships between the internet, the economy, trade and development
 * Responsible for gender-related initiatives
 
-◊h3{Graduate Research Student, Academia Diplomática Plurinacional de Bolivia}
-◊marginnote{◊link["http://www.academiadiplomatica.gob.bo/"]{academiadiplomatica.gob.bo}}
+◊h3{Graduate Research Student, Academia Diplomática Plurinacional de Bolivia ◊link["http://www.academiadiplomatica.gob.bo/"]{+}}
 La Paz, 1/2018 – Present
 
-◊h3{Trade Negotiations Unit Support (ad honorem), Ministry of Foreign Affairs, Plurinational State of Bolivia}
-◊marginnote{◊link["http://www.cancilleria.gob.bo"]{cancilleria.gob.bo}}
+◊h3{Trade Negotiations Unit Support (ad honorem), Ministry of Foreign Affairs, Plurinational State of Bolivia ◊link["http://www.cancilleria.gob.bo"]{+}}
 La Paz,  6/2017 – 12/2017
 * Logistic support for the Trade Facilitation Agreement - WTO
 * Logistic support for the Bolivian Trade Policy Review - WTO
 * Technical support for the Trade Policy Review - WTO
 * Economic analysis of bilateral relations between Bolivia and other countries
 
-◊h3{Online course responsible, Rural Development for South America Institute (IPDRS)}
-◊marginnote{◊link["http://www.ipdrs.org/"]{ipdrs.org}}
+◊h3{Online course responsible, Rural Development for South America Institute (IPDRS) ◊link["http://www.ipdrs.org/"]{+}}
 La Paz, 10/2015 – 12/2015
 Course: Climate Risk, adaptation and mitigation for Security Food
 * Online course implementation
@@ -75,15 +71,13 @@ Course: Climate Risk, adaptation and mitigation for Security Food
 * Preparation of documentation and related articles
 * Logistics of related physical events
 
-◊h3{Office support (ad honorem), Embassy of the Plurinational State of Bolivia in the Republic Federal of Germany}
-◊marginnote{◊link["http://www.bolivia.de"]{bolivia.de}}
+◊h3{Office support (ad honorem), Embassy of the Plurinational State of Bolivia in the Republic Federal of Germany ◊link["http://www.bolivia.de"]{+}}
 Berlin, 7/2016 – 8/2015 
 * Support for consular services
 * Organization of the official celebration for the 190th anniversary of Bolivian independence
 * Database upgrade
 
-◊h3{Project Manager, Gobierno Autónomo Municipal de La Paz, La Paz}
-◊marginnote{◊link["http://www.lapazbus.bo"]{lapazbus.bo}}
+◊h3{Project Manager, Gobierno Autónomo Municipal de La Paz, La Paz ◊link["http://www.lapazbus.bo"]{+}}
 La Paz, 9/2014 - 12/2014
 * Responsible for the economic planning and development  of an important public transportation project
 
